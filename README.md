@@ -1,8 +1,7 @@
 # Part A of the code generates Hybrid Images
 ## Hybrid Images
-![385d5238-0f5d-4310-bba9-4c1ec1886df4](https://github.com/nisarg15/Hybrid-Pyramid_Image-Edge_detection-templete_matching/assets/89348092/cf7e556f-c5cf-4fe8-ae28-bc41ef7b0b02)
-![bb13d646-884c-434e-87c8-9de94ebb07fc](https://github.com/nisarg15/Hybrid-Pyramid_Image-Edge_detection-templete_matching/assets/89348092/e183c02e-db42-4f68-b5e5-639d1ffa9f2e)
-![9e221b2c-f727-4b00-985b-d9a39b411fa3](https://github.com/nisarg15/Hybrid-Pyramid_Image-Edge_detection-templete_matching/assets/89348092/bb4f0952-39b5-42df-947b-f952bc1e970b)
+![385d5238-0f5d-4310-bba9-4c1ec1886df4](https://github.com/nisarg15/Hybrid-Pyramid_Image-Edge_detection-templete_matching/assets/89348092/8ba31c67-697b-464e-99e8-533b65c97343)
+
 
 # Part B of the code generates Gaussian and Laplacian pyramids
 ## Gaussian 
